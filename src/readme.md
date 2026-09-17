@@ -4,7 +4,7 @@
 ![captura 2 del proceso.png](../capturas/captura%202%20del%20proceso.png)
 # Ejercicio 2
 ## A)
-![cap 1.png](../capturas/cap%201.png)
+![grep sin iniciar programa.png](capturas/grep%20sin%20iniciar%20programa.png)
 
 PID: 9717
 PPID: 9436
@@ -12,30 +12,26 @@ PPID: 9436
 El proceso padre es el PPID, porque es el numero que identifica el programa creador.
 
 ## B)
-![cap 2.png](../capturas/cap%202.png)
-
-![cap 3.png](../capturas/cap%203.png)
-
+![inicio de programa desde terminal.png](capturas/inicio%20de%20programa%20desde%20terminal.png)
+![grep con programa iniciado.png](capturas/grep%20con%20programa%20iniciado.png)
 Desde el terminal
 
-![cap 4.png](../capturas/cap%204.png)
+![grep desde el IDE.png](capturas/grep%20desde%20el%20IDE.png)
 
 Desde el IDE
 
 El PPID cambia porque cambia la identidad del programa creador, en al terminal el PPID es el 10271 y en el IDE el PPID es el 6442.
 
 ## C)
-
-![cap 5.png](../capturas/cap%205.png)
-![cap 6.png](../capturas/cap%206.png)
-
+![Ejecutando programa con -Xmx128m.png](capturas/Ejecutando%20programa%20con%20-Xmx128m.png)
+![Grep con Xmx128m.png](capturas/Grep%20con%20Xmx128m.png)
 Inice el programa con java -Xmx128m InformeSistema
 
 
 
 ## D)
 
-![cap 7.png](../capturas/cap%207.png)
+![Ruta.png](capturas/Ruta.png)
 
 En windows esa ruta seria C:\User\dam26\psp\informe.txt
 
