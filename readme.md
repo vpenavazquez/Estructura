@@ -1,5 +1,6 @@
 # Ejercicio 1
 ![Captura 1 del proceso.png](capturas/Captura%201%20del%20proceso.png)
+
 ![captura 2 del proceso.png](capturas/captura%202%20del%20proceso.png)
 # Ejercicio 2
 ## A)
