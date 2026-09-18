@@ -13,6 +13,7 @@ El proceso padre es el PPID, porque es el numero que identifica el programa crea
 ## B)
 ![inicio de programa desde terminal.png](capturas/inicio%20de%20programa%20desde%20terminal.png)
 ![grep con programa iniciado.png](capturas/grep%20con%20programa%20iniciado.png)
+
 Desde el terminal
 
 ![grep desde el IDE.png](capturas/grep%20desde%20el%20IDE.png)
