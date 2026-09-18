@@ -26,6 +26,10 @@ El PPID cambia porque cambia la identidad del programa creador, en al terminal e
 ![Grep con Xmx128m.png](capturas/Grep%20con%20Xmx128m.png)
 Inice el programa con java -Xmx128m InformeSistema
 
+Cambia que el PID sube y el PPID baja porque cada vez que se crea un proceso nuevo en la máquina, Linux le asigna un número superior al anterior. Como la prueba con -Xmx128m se lanzó más tarde, recibió un PID más alto pero el PPID baja porque estaba usando otra pestaña dentro del CMD entonces tiene un identificador diferente
+
+Lo mas importante que al lanzar el comando -xmx128m lo que le estamos diciendo al programa es que nunca use mas de 128MiB de Ram
+
 
 
 ## D)
