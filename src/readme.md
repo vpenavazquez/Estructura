@@ -1,7 +1,7 @@
 # Ejercicio 1
+![Captura 1 del proceso.png](capturas/Captura%201%20del%20proceso.png)
+![captura 2 del proceso.png](capturas/captura%202%20del%20proceso.png)
 
-![Captura 1 del proceso.png](../capturas/Captura%201%20del%20proceso.png)
-![captura 2 del proceso.png](../capturas/captura%202%20del%20proceso.png)
 # Ejercicio 2
 ## A)
 ![grep sin iniciar programa.png](capturas/grep%20sin%20iniciar%20programa.png)
